@@ -1,14 +1,14 @@
 {
-  "rom_url": "https://get.pixelexperience.org/NEdVNnZTSmQwUlRKUllvbkhsR243bVJuWkFJYmdXclppV0ZXSm1waTUrVkJlOWU4N3lxZ3JlV0JsYjE5ZUFZaysyVGlvV1NKV1F5OVZzQ0xYc09vTnhjNmx3cFBIYmUvcmpJTkZYMDJpbTA9/PixelExperience_lavender-11.0-20201129-0411-BETA-OFFICIAL.zip",
-  "rom_name": "PixelExperience_lavender-11.0-20201129-0411-BETA-OFFICIAL.zip",
-  "pack_sgsi": "PixelExperience_lavender-11.0-20201129-0411-BETA-OFFICIAL_XiaoxinSGSIs_kudoushins.7z",
+  "rom_url": "https://assorted.downloads.oppo.com/firmware/CPH1877_Q/CPH1877EX_11_OTA_3430_all_IS5Dw8DdOlm2.ozip",
+  "rom_name": "CPH1877_Q/CPH1877EX_11_OTA_3430_all_IS5Dw8DdOlm2.ozip",
+  "pack_sgsi": "Oppo_R17Pro_XiaoxinSGSIs_kudoushins.7z",
   "make_miui": false,
   "make_flyme": false,
-  "make_coloros": false,
-  "make_h2os": true,
+  "make_coloros": true,
+  "make_h2os": false,
   "make_smartisanos": false,
   "make_zui": false,
   "make_super": false,
   "upload_transfer": true,
-  "upload_artifact": true
+  "upload_artifact": false
 }
